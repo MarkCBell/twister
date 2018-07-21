@@ -1,0 +1,7 @@
+# A Twister surface file produced in plink.
+annulus,a,A,+0#
+annulus,b,B,-0,-1,-2#
+annulus,c,C,+3,+1#
+annulus,d,D,+4,+2#
+rectangle,x,X,-3#
+rectangle,y,Y,-4#
